@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.exe
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.deps.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.runtimeconfig.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.AssemblyInfo.cs
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.sourcelink.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\obj\Debug\net8.0\refint\Jogo da Forca.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.genruntimeconfig.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Jogo da Forca\obj\Debug\net8.0\ref\Jogo da Forca.dll
