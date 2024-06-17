@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\bin\Debug\net8.0\DotnetLists.exe
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\bin\Debug\net8.0\DotnetLists.deps.json
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\bin\Debug\net8.0\DotnetLists.runtimeconfig.json
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\bin\Debug\net8.0\DotnetLists.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\bin\Debug\net8.0\DotnetLists.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\obj\Debug\net8.0\DotnetLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\obj\Debug\net8.0\DotnetLists.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\obj\Debug\net8.0\DotnetLists.AssemblyInfo.cs
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\obj\Debug\net8.0\DotnetLists.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\obj\Debug\net8.0\DotnetLists.sourcelink.json
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\obj\Debug\net8.0\DotnetLists.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\obj\Debug\net8.0\refint\DotnetLists.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\obj\Debug\net8.0\DotnetLists.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\obj\Debug\net8.0\DotnetLists.genruntimeconfig.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\DotnetLists\obj\Debug\net8.0\ref\DotnetLists.dll

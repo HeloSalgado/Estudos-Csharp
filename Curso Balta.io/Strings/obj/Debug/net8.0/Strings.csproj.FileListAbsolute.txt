@@ -1,0 +1,15 @@
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\bin\Debug\net8.0\Strings.exe
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\bin\Debug\net8.0\Strings.deps.json
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\bin\Debug\net8.0\Strings.dll
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\bin\Debug\net8.0\Strings.pdb
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\obj\Debug\net8.0\Strings.sourcelink.json
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\obj\Debug\net8.0\Strings.dll
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\obj\Debug\net8.0\refint\Strings.dll
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\obj\Debug\net8.0\Strings.pdb
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+c:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\Strings\obj\Debug\net8.0\ref\Strings.dll

@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\bin\Debug\net8.0\EditorHtml.exe
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\bin\Debug\net8.0\EditorHtml.deps.json
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\bin\Debug\net8.0\EditorHtml.runtimeconfig.json
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\bin\Debug\net8.0\EditorHtml.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\bin\Debug\net8.0\EditorHtml.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\obj\Debug\net8.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfo.cs
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\obj\Debug\net8.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\obj\Debug\net8.0\EditorHtml.sourcelink.json
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\obj\Debug\net8.0\EditorHtml.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\obj\Debug\net8.0\refint\EditorHtml.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\obj\Debug\net8.0\EditorHtml.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\obj\Debug\net8.0\EditorHtml.genruntimeconfig.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos\Curso C#\EditorHtml\obj\Debug\net8.0\ref\EditorHtml.dll
