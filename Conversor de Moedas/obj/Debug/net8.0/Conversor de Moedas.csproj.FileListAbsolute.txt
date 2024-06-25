@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\bin\Debug\net8.0\Conversor de Moedas.exe
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\bin\Debug\net8.0\Conversor de Moedas.deps.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\bin\Debug\net8.0\Conversor de Moedas.runtimeconfig.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\bin\Debug\net8.0\Conversor de Moedas.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\bin\Debug\net8.0\Conversor de Moedas.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\obj\Debug\net8.0\Conversor de Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\obj\Debug\net8.0\Conversor de Moedas.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\obj\Debug\net8.0\Conversor de Moedas.AssemblyInfo.cs
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\obj\Debug\net8.0\Conversor de Moedas.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\obj\Debug\net8.0\Conversor de Moedas.sourcelink.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\obj\Debug\net8.0\Conversor de Moedas.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\obj\Debug\net8.0\refint\Conversor de Moedas.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\obj\Debug\net8.0\Conversor de Moedas.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\obj\Debug\net8.0\Conversor de Moedas.genruntimeconfig.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Conversor de Moedas\obj\Debug\net8.0\ref\Conversor de Moedas.dll

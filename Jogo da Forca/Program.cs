@@ -15,13 +15,12 @@ class Program
         StringBuilder letrasErradas = new StringBuilder("Letras erradas: ");
 
         Random aleatorio = new Random();
-
         int numeroSorteado = aleatorio.Next(0, palavras.Length);
         String palavraSorteada = palavras[numeroSorteado];
 
         char letraDigitada;
         char[] forca = new char[palavraSorteada.Length];
-
+      
         for (int i = 0; i < forca.Length; i++){
             forca[i] = '_';
         }
