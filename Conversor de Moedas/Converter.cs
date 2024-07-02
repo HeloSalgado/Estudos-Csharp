@@ -9,15 +9,15 @@ public class Converter
     public static double ValueInWon { get; private set; }
 
 
-    public static void ConvertToReal(ECoin coin, double value)
+    public static double ConvertToReal(ECoin coin, double value)
     {
         switch (coin)
         {
             case ECoin.Euro:
-                ValueInReal = value * 5.83; 
+                ValueInReal = value * 6.08; 
                 break;
             case ECoin.DolarAmericano:
-                ValueInReal = value * 5.45; 
+                ValueInReal = value * 5.67; 
                 break;
             case ECoin.Peso_argentino:
                 ValueInReal = value * 0.0060; 
@@ -31,9 +31,11 @@ public class Converter
             default:
                 throw new ArgumentException("Moeda de origem inválida.");
         }
+
+        return ValueInReal;
     }
 
-    public static void ConvertToEuro(ECoin coin, double value)
+    public static double ConvertToEuro(ECoin coin, double value)
     {
         switch (coin)
         {
@@ -50,10 +52,90 @@ public class Converter
                 ValueInEuro = value * 0.00067; 
                 break;
             case ECoin.Real:
-                ValueInEuro = value * 0.17;
+                ValueInEuro = value * 0.16;
                 break;
             default:
                 throw new ArgumentException("Moeda de origem inválida.");
         }
+
+        return ValueInEuro;
+    }
+
+    public static double ConvertToPeso(ECoin coin, double value)
+    {
+        switch (coin)
+        {
+            case ECoin.Euro:
+                ValueInPeso = value * 982.27; 
+                break;
+            case ECoin.DolarAmericano:
+                ValueInPeso = value * 914.26; 
+                break;
+            case ECoin.Peso_argentino:
+                ValueInPeso = value; 
+                break;
+            case ECoin.Won:
+                ValueInPeso = value * 0.66; 
+                break;
+            case ECoin.Real:
+                ValueInPeso = value * 161.57;
+                break;
+            default:
+                throw new ArgumentException("Moeda de origem inválida.");
+        }
+
+        return ValueInPeso;
+    }
+
+    public static double ConvertToDolar(ECoin coin, double value)
+    {
+        switch (coin)
+        {
+            case ECoin.Euro:
+                ValueInAmericanDolar = value * 1.07; 
+                break;
+            case ECoin.DolarAmericano:
+                ValueInAmericanDolar = value; 
+                break;
+            case ECoin.Peso_argentino:
+                ValueInAmericanDolar = value * 0.0011; 
+                break;
+            case ECoin.Won:
+                ValueInAmericanDolar = value * 0.00072; 
+                break;
+            case ECoin.Real:
+                ValueInAmericanDolar = value * 0.18;
+                break;
+            default:
+                throw new ArgumentException("Moeda de origem inválida.");
+        }
+
+        return ValueInAmericanDolar;
+    }
+
+    public static double ConvertToWon(ECoin coin, double value)
+    {
+        switch (coin)
+        {
+            case ECoin.Euro:
+                ValueInWon = value * 1488.84; 
+                break;
+            case ECoin.DolarAmericano:
+                ValueInWon = value * 1385.99; 
+                break;
+            case ECoin.Peso_argentino:
+                ValueInWon = value * 1.52; 
+                break;
+            case ECoin.Won:
+                ValueInWon = value; 
+                break;
+            case ECoin.Real:
+                ValueInWon = value * 244.63;
+                break;
+            default:
+                throw new ArgumentException("Moeda de origem inválida.");
+        }
+
+        return ValueInWon;
     }
 }
