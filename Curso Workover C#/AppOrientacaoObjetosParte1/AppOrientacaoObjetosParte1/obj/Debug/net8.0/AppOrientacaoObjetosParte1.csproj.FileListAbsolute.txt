@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\bin\Debug\net8.0\AppOrientacaoObjetosParte1.exe
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\bin\Debug\net8.0\AppOrientacaoObjetosParte1.deps.json
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\bin\Debug\net8.0\AppOrientacaoObjetosParte1.runtimeconfig.json
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\bin\Debug\net8.0\AppOrientacaoObjetosParte1.dll
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\bin\Debug\net8.0\AppOrientacaoObjetosParte1.pdb
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net8.0\AppOrientacaoObjetosParte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net8.0\AppOrientacaoObjetosParte1.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net8.0\AppOrientacaoObjetosParte1.AssemblyInfo.cs
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net8.0\AppOrientacaoObjetosParte1.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net8.0\AppOrientacaoObjetosParte1.sourcelink.json
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net8.0\AppOrientacaoObjetosParte1.dll
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net8.0\refint\AppOrientacaoObjetosParte1.dll
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net8.0\AppOrientacaoObjetosParte1.pdb
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net8.0\AppOrientacaoObjetosParte1.genruntimeconfig.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net8.0\ref\AppOrientacaoObjetosParte1.dll

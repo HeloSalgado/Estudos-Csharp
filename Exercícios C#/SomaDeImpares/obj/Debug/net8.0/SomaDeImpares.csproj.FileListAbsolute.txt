@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\bin\Debug\net8.0\SomaDeImpares.exe
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\bin\Debug\net8.0\SomaDeImpares.deps.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\bin\Debug\net8.0\SomaDeImpares.runtimeconfig.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\bin\Debug\net8.0\SomaDeImpares.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\bin\Debug\net8.0\SomaDeImpares.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\obj\Debug\net8.0\SomaDeImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\obj\Debug\net8.0\SomaDeImpares.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\obj\Debug\net8.0\SomaDeImpares.AssemblyInfo.cs
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\obj\Debug\net8.0\SomaDeImpares.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\obj\Debug\net8.0\SomaDeImpares.sourcelink.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\obj\Debug\net8.0\SomaDeImpares.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\obj\Debug\net8.0\refint\SomaDeImpares.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\obj\Debug\net8.0\SomaDeImpares.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\obj\Debug\net8.0\SomaDeImpares.genruntimeconfig.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomaDeImpares\obj\Debug\net8.0\ref\SomaDeImpares.dll

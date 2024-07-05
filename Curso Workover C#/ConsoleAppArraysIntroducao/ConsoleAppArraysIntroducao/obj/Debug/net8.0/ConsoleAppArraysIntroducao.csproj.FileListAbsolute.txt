@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\bin\Debug\net8.0\ConsoleAppArraysIntroducao.exe
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\bin\Debug\net8.0\ConsoleAppArraysIntroducao.deps.json
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\bin\Debug\net8.0\ConsoleAppArraysIntroducao.runtimeconfig.json
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\bin\Debug\net8.0\ConsoleAppArraysIntroducao.dll
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\bin\Debug\net8.0\ConsoleAppArraysIntroducao.pdb
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net8.0\ConsoleAppArraysIntroducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net8.0\ConsoleAppArraysIntroducao.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net8.0\ConsoleAppArraysIntroducao.AssemblyInfo.cs
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net8.0\ConsoleAppArraysIntroducao.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net8.0\ConsoleAppArraysIntroducao.sourcelink.json
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net8.0\ConsoleAppArraysIntroducao.dll
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net8.0\refint\ConsoleAppArraysIntroducao.dll
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net8.0\ConsoleAppArraysIntroducao.pdb
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net8.0\ConsoleAppArraysIntroducao.genruntimeconfig.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net8.0\ref\ConsoleAppArraysIntroducao.dll

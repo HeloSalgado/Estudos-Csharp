@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\bin\Debug\net8.0\SomarDigitos.exe
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\bin\Debug\net8.0\SomarDigitos.deps.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\bin\Debug\net8.0\SomarDigitos.runtimeconfig.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\bin\Debug\net8.0\SomarDigitos.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\bin\Debug\net8.0\SomarDigitos.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\obj\Debug\net8.0\SomarDigitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\obj\Debug\net8.0\SomarDigitos.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\obj\Debug\net8.0\SomarDigitos.AssemblyInfo.cs
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\obj\Debug\net8.0\SomarDigitos.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\obj\Debug\net8.0\SomarDigitos.sourcelink.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\obj\Debug\net8.0\SomarDigitos.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\obj\Debug\net8.0\refint\SomarDigitos.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\obj\Debug\net8.0\SomarDigitos.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\obj\Debug\net8.0\SomarDigitos.genruntimeconfig.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\SomarDigitos\obj\Debug\net8.0\ref\SomarDigitos.dll

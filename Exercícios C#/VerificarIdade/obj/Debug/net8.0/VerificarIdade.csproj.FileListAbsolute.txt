@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\bin\Debug\net8.0\VerificarIdade.exe
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\bin\Debug\net8.0\VerificarIdade.deps.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\bin\Debug\net8.0\VerificarIdade.runtimeconfig.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\bin\Debug\net8.0\VerificarIdade.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\bin\Debug\net8.0\VerificarIdade.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\obj\Debug\net8.0\VerificarIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\obj\Debug\net8.0\VerificarIdade.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\obj\Debug\net8.0\VerificarIdade.AssemblyInfo.cs
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\obj\Debug\net8.0\VerificarIdade.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\obj\Debug\net8.0\VerificarIdade.sourcelink.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\obj\Debug\net8.0\VerificarIdade.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\obj\Debug\net8.0\refint\VerificarIdade.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\obj\Debug\net8.0\VerificarIdade.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\obj\Debug\net8.0\VerificarIdade.genruntimeconfig.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarIdade\obj\Debug\net8.0\ref\VerificarIdade.dll

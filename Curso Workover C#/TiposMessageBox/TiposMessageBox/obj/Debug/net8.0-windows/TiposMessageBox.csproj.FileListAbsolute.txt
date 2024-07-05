@@ -1,0 +1,17 @@
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\bin\Debug\net8.0-windows\TiposMessageBox.exe
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\bin\Debug\net8.0-windows\TiposMessageBox.deps.json
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\bin\Debug\net8.0-windows\TiposMessageBox.runtimeconfig.json
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\bin\Debug\net8.0-windows\TiposMessageBox.dll
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\bin\Debug\net8.0-windows\TiposMessageBox.pdb
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\obj\Debug\net8.0-windows\TiposMessageBox.Form1.resources
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\obj\Debug\net8.0-windows\TiposMessageBox.csproj.GenerateResource.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\obj\Debug\net8.0-windows\TiposMessageBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\obj\Debug\net8.0-windows\TiposMessageBox.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\obj\Debug\net8.0-windows\TiposMessageBox.AssemblyInfo.cs
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\obj\Debug\net8.0-windows\TiposMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\obj\Debug\net8.0-windows\TiposMessageBox.sourcelink.json
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\obj\Debug\net8.0-windows\TiposMessageBox.dll
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\obj\Debug\net8.0-windows\refint\TiposMessageBox.dll
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\obj\Debug\net8.0-windows\TiposMessageBox.pdb
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\obj\Debug\net8.0-windows\TiposMessageBox.genruntimeconfig.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\TiposMessageBox\TiposMessageBox\obj\Debug\net8.0-windows\ref\TiposMessageBox.dll

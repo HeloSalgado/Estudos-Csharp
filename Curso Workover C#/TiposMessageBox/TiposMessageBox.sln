@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposMessageBox", "TiposMessageBox\TiposMessageBox.csproj", "{5AED3E52-CF2C-4BE3-B3AA-6B2F364DFFD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AED3E52-CF2C-4BE3-B3AA-6B2F364DFFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AED3E52-CF2C-4BE3-B3AA-6B2F364DFFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AED3E52-CF2C-4BE3-B3AA-6B2F364DFFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AED3E52-CF2C-4BE3-B3AA-6B2F364DFFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {574316F7-A226-4717-85B1-2564E333D4FA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\bin\Debug\net8.0\VerificarNumeroPrimo.exe
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\bin\Debug\net8.0\VerificarNumeroPrimo.deps.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\bin\Debug\net8.0\VerificarNumeroPrimo.runtimeconfig.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\bin\Debug\net8.0\VerificarNumeroPrimo.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\bin\Debug\net8.0\VerificarNumeroPrimo.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\obj\Debug\net8.0\VerificarNumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\obj\Debug\net8.0\VerificarNumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\obj\Debug\net8.0\VerificarNumeroPrimo.AssemblyInfo.cs
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\obj\Debug\net8.0\VerificarNumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\obj\Debug\net8.0\VerificarNumeroPrimo.sourcelink.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\obj\Debug\net8.0\VerificarNumeroPrimo.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\obj\Debug\net8.0\refint\VerificarNumeroPrimo.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\obj\Debug\net8.0\VerificarNumeroPrimo.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\obj\Debug\net8.0\VerificarNumeroPrimo.genruntimeconfig.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\VerificarNumeroPrimo\obj\Debug\net8.0\ref\VerificarNumeroPrimo.dll

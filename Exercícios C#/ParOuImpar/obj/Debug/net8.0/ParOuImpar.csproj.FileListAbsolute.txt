@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\bin\Debug\net8.0\ParOuImpar.exe
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\bin\Debug\net8.0\ParOuImpar.deps.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\bin\Debug\net8.0\ParOuImpar.runtimeconfig.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\bin\Debug\net8.0\ParOuImpar.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\bin\Debug\net8.0\ParOuImpar.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.AssemblyInfo.cs
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.sourcelink.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\obj\Debug\net8.0\refint\ParOuImpar.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.genruntimeconfig.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\ParOuImpar\obj\Debug\net8.0\ref\ParOuImpar.dll

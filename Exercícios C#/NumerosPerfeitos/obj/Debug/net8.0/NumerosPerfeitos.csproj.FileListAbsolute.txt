@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\bin\Debug\net8.0\NumerosPerfeitos.exe
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\bin\Debug\net8.0\NumerosPerfeitos.deps.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\bin\Debug\net8.0\NumerosPerfeitos.runtimeconfig.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\bin\Debug\net8.0\NumerosPerfeitos.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\bin\Debug\net8.0\NumerosPerfeitos.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\obj\Debug\net8.0\NumerosPerfeitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\obj\Debug\net8.0\NumerosPerfeitos.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\obj\Debug\net8.0\NumerosPerfeitos.AssemblyInfo.cs
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\obj\Debug\net8.0\NumerosPerfeitos.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\obj\Debug\net8.0\NumerosPerfeitos.sourcelink.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\obj\Debug\net8.0\NumerosPerfeitos.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\obj\Debug\net8.0\refint\NumerosPerfeitos.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\obj\Debug\net8.0\NumerosPerfeitos.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\obj\Debug\net8.0\NumerosPerfeitos.genruntimeconfig.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosPerfeitos\obj\Debug\net8.0\ref\NumerosPerfeitos.dll

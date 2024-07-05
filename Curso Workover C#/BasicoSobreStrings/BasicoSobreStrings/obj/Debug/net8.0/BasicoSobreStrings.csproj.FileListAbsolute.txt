@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\bin\Debug\net8.0\BasicoSobreStrings.exe
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\bin\Debug\net8.0\BasicoSobreStrings.deps.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\bin\Debug\net8.0\BasicoSobreStrings.runtimeconfig.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\bin\Debug\net8.0\BasicoSobreStrings.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\bin\Debug\net8.0\BasicoSobreStrings.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\obj\Debug\net8.0\BasicoSobreStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\obj\Debug\net8.0\BasicoSobreStrings.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\obj\Debug\net8.0\BasicoSobreStrings.AssemblyInfo.cs
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\obj\Debug\net8.0\BasicoSobreStrings.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\obj\Debug\net8.0\BasicoSobreStrings.sourcelink.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\obj\Debug\net8.0\BasicoSobreStrings.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\obj\Debug\net8.0\refint\BasicoSobreStrings.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\obj\Debug\net8.0\BasicoSobreStrings.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\obj\Debug\net8.0\BasicoSobreStrings.genruntimeconfig.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Curso Workover C#\BasicoSobreStrings\BasicoSobreStrings\obj\Debug\net8.0\ref\BasicoSobreStrings.dll

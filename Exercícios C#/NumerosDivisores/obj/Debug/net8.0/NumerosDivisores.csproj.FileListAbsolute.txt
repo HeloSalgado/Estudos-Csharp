@@ -1,0 +1,15 @@
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\bin\Debug\net8.0\NumerosDivisores.exe
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\bin\Debug\net8.0\NumerosDivisores.deps.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\bin\Debug\net8.0\NumerosDivisores.runtimeconfig.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\bin\Debug\net8.0\NumerosDivisores.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\bin\Debug\net8.0\NumerosDivisores.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\obj\Debug\net8.0\NumerosDivisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\obj\Debug\net8.0\NumerosDivisores.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\obj\Debug\net8.0\NumerosDivisores.AssemblyInfo.cs
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\obj\Debug\net8.0\NumerosDivisores.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\obj\Debug\net8.0\NumerosDivisores.sourcelink.json
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\obj\Debug\net8.0\NumerosDivisores.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\obj\Debug\net8.0\refint\NumerosDivisores.dll
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\obj\Debug\net8.0\NumerosDivisores.pdb
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\obj\Debug\net8.0\NumerosDivisores.genruntimeconfig.cache
+C:\Users\helos\OneDrive - SPTech School\Estudos-Csharp\Exercícios C#\NumerosDivisores\obj\Debug\net8.0\ref\NumerosDivisores.dll

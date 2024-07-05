@@ -1,0 +1,17 @@
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\bin\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.exe
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\bin\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.deps.json
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\bin\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.runtimeconfig.json
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\bin\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.dll
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\bin\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.pdb
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\obj\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.Form1.resources
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\obj\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.csproj.GenerateResource.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\obj\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\obj\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\obj\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\obj\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\obj\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.sourcelink.json
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\obj\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.dll
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\obj\Debug\net8.0-windows7.0\refint\WinFormsPrimeiroProjeto.dll
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\obj\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.pdb
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\obj\Debug\net8.0-windows7.0\WinFormsPrimeiroProjeto.genruntimeconfig.cache
+C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WinFormsPrimeiroProjeto\WinFormsPrimeiroProjeto\obj\Debug\net8.0-windows7.0\ref\WinFormsPrimeiroProjeto.dll
