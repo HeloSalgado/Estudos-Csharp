@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\helos\\OneDrive\\Documentos\\Estudos-Csharp\\Curso Workover C#\\WFGravarDadosMySQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDD8BE5-BF95-4237-A06D-DA2573145BFD}|WFGravarDadosMySQL\\WFGravarDadosMySQL.csproj|c:\\users\\helos\\onedrive\\documentos\\estudos-csharp\\curso workover c#\\wfgravardadosmysql\\wfgravardadosmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDD8BE5-BF95-4237-A06D-DA2573145BFD}|WFGravarDadosMySQL\\WFGravarDadosMySQL.csproj|solutionrelative:wfgravardadosmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDD8BE5-BF95-4237-A06D-DA2573145BFD}|WFGravarDadosMySQL\\WFGravarDadosMySQL.csproj|c:\\users\\helos\\onedrive\\documentos\\estudos-csharp\\curso workover c#\\wfgravardadosmysql\\wfgravardadosmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DDD8BE5-BF95-4237-A06D-DA2573145BFD}|WFGravarDadosMySQL\\WFGravarDadosMySQL.csproj|solutionrelative:wfgravardadosmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\helos\\OneDrive\\Documentos\\Estudos-Csharp\\Curso Workover C#\\WFGravarDadosMySQL\\WFGravarDadosMySQL\\Form1.cs",
+              "RelativeDocumentMoniker": "WFGravarDadosMySQL\\Form1.cs",
+              "ToolTip": "C:\\Users\\helos\\OneDrive\\Documentos\\Estudos-Csharp\\Curso Workover C#\\WFGravarDadosMySQL\\WFGravarDadosMySQL\\Form1.cs",
+              "RelativeToolTip": "WFGravarDadosMySQL\\Form1.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwD4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:06:03.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\helos\\OneDrive\\Documentos\\Estudos-Csharp\\Curso Workover C#\\WFGravarDadosMySQL\\WFGravarDadosMySQL\\Form1.cs",
+              "RelativeDocumentMoniker": "WFGravarDadosMySQL\\Form1.cs",
+              "ToolTip": "C:\\Users\\helos\\OneDrive\\Documentos\\Estudos-Csharp\\Curso Workover C#\\WFGravarDadosMySQL\\WFGravarDadosMySQL\\Form1.cs [Projeto]",
+              "RelativeToolTip": "WFGravarDadosMySQL\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:10.246Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

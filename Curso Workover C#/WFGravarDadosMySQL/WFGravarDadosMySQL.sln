@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFGravarDadosMySQL", "WFGravarDadosMySQL\WFGravarDadosMySQL.csproj", "{5DDD8BE5-BF95-4237-A06D-DA2573145BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DDD8BE5-BF95-4237-A06D-DA2573145BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDD8BE5-BF95-4237-A06D-DA2573145BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDD8BE5-BF95-4237-A06D-DA2573145BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDD8BE5-BF95-4237-A06D-DA2573145BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C6AB8A-0893-4E15-9B72-34B53677B4C1}
+	EndGlobalSection
+EndGlobal
