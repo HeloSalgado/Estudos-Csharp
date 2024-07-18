@@ -7,11 +7,7 @@
       "RelativeMoniker": "D:0:0:{5DDD8BE5-BF95-4237-A06D-DA2573145BFD}|WFGravarDadosMySQL\\WFGravarDadosMySQL.csproj|solutionrelative:wfgravardadosmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{5DDD8BE5-BF95-4237-A06D-DA2573145BFD}|WFGravarDadosMySQL\\WFGravarDadosMySQL.csproj|C:\\Users\\helos\\OneDrive\\Documentos\\Estudos-Csharp\\Curso Workover C#\\WFGravarDadosMySQL\\wfgravardadosmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-=======
-      "AbsoluteMoniker": "D:0:0:{5DDD8BE5-BF95-4237-A06D-DA2573145BFD}|WFGravarDadosMySQL\\WFGravarDadosMySQL.csproj|c:\\users\\helos\\onedrive\\documentos\\estudos-csharp\\curso workover c#\\wfgravardadosmysql\\wfgravardadosmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
       "RelativeMoniker": "D:0:0:{5DDD8BE5-BF95-4237-A06D-DA2573145BFD}|WFGravarDadosMySQL\\WFGravarDadosMySQL.csproj|solutionrelative:wfgravardadosmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -34,15 +30,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\helos\\OneDrive\\Documentos\\Estudos-Csharp\\Curso Workover C#\\WFGravarDadosMySQL\\WFGravarDadosMySQL\\Form1.cs",
               "RelativeDocumentMoniker": "WFGravarDadosMySQL\\Form1.cs",
-<<<<<<< HEAD
-              "ToolTip": "C:\\Users\\helos\\OneDrive\\Documentos\\Estudos-Csharp\\Curso Workover C#\\WFGravarDadosMySQL\\WFGravarDadosMySQL\\Form1.cs*",
-              "RelativeToolTip": "WFGravarDadosMySQL\\Form1.cs*",
-              "ViewState": "AQIAACIAAAAAAAAAAAAuwDMAAAAjAAAA",
-=======
               "ToolTip": "C:\\Users\\helos\\OneDrive\\Documentos\\Estudos-Csharp\\Curso Workover C#\\WFGravarDadosMySQL\\WFGravarDadosMySQL\\Form1.cs",
               "RelativeToolTip": "WFGravarDadosMySQL\\Form1.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAgwD4AAAA7AAAA",
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
+              "ViewState": "AQIAAH4AAAAAAAAAAAAwwFsAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T15:06:03.464Z",
               "EditorCaption": ""
@@ -53,13 +43,8 @@
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\helos\\OneDrive\\Documentos\\Estudos-Csharp\\Curso Workover C#\\WFGravarDadosMySQL\\WFGravarDadosMySQL\\Form1.cs",
               "RelativeDocumentMoniker": "WFGravarDadosMySQL\\Form1.cs",
-<<<<<<< HEAD
-              "ToolTip": "C:\\Users\\helos\\OneDrive\\Documentos\\Estudos-Csharp\\Curso Workover C#\\WFGravarDadosMySQL\\WFGravarDadosMySQL\\Form1.cs [Projeto]*",
-              "RelativeToolTip": "WFGravarDadosMySQL\\Form1.cs [Projeto]*",
-=======
               "ToolTip": "C:\\Users\\helos\\OneDrive\\Documentos\\Estudos-Csharp\\Curso Workover C#\\WFGravarDadosMySQL\\WFGravarDadosMySQL\\Form1.cs [Projeto]",
               "RelativeToolTip": "WFGravarDadosMySQL\\Form1.cs [Projeto]",
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T14:47:10.246Z",
               "EditorCaption": " [Projeto]"

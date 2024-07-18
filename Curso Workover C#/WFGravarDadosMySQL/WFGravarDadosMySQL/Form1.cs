@@ -1,8 +1,5 @@
 using MySql.Data.MySqlClient;
-<<<<<<< HEAD
 using Mysqlx;
-=======
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
 
 namespace WFGravarDadosMySQL
 {
@@ -17,15 +14,10 @@ namespace WFGravarDadosMySQL
 
             lst_contatos.Columns.Add("ID", 30, HorizontalAlignment.Left);
             lst_contatos.Columns.Add("Nome", 150, HorizontalAlignment.Left);
-<<<<<<< HEAD
             lst_contatos.Columns.Add("Email", 180, HorizontalAlignment.Left);
             lst_contatos.Columns.Add("Telefone", 150, HorizontalAlignment.Left);
 
             CarregarContatos();
-=======
-            lst_contatos.Columns.Add("Email", 150, HorizontalAlignment.Left);
-            lst_contatos.Columns.Add("Telefone", 150, HorizontalAlignment.Left);
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
         }
 
         private void btn_salvar_Click(object sender, EventArgs e)
@@ -34,8 +26,6 @@ namespace WFGravarDadosMySQL
             {
                 // Criar conexão
                 conn = new MySqlConnection(data_source);
-
-<<<<<<< HEAD
                 conn.Open();
 
                 MySqlCommand cmd = new MySqlCommand();
@@ -67,21 +57,6 @@ namespace WFGravarDadosMySQL
             catch (Exception ex)
             {
                 MessageBox.Show("Erro ocorreu: " + ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
-=======
-                // Realizar insert
-                string sql = $"insert into contato (nome, email, telefone) values ('{txt_nome.Text}', '{txt_email.Text}', '{txt_telefone.Text}')";
-
-                MySqlCommand comando = new MySqlCommand(sql, conn);
-
-                conn.Open();
-                comando.ExecuteReader();
-
-                MessageBox.Show("Deu tudo certo, inserido");
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
             }
             finally
             {
@@ -93,7 +68,6 @@ namespace WFGravarDadosMySQL
         {
             try
             {
-<<<<<<< HEAD
                 conn = new MySqlConnection(data_source);
 
                 conn.Open();
@@ -109,38 +83,18 @@ namespace WFGravarDadosMySQL
                 cmd.Prepare();
 
                 MySqlDataReader reader = cmd.ExecuteReader();
-=======
-                string q = $"'%{txt_busca.Text}%'";
-
-                // Criar conexão
-                conn = new MySqlConnection(data_source);
-
-                // Realizar select
-                string sql = $"select * from contato where nome like {q} or email like {q}";
-
-                conn.Open();
-
-                MySqlCommand comando = new MySqlCommand(sql, conn);
-
-                MySqlDataReader reader = comando.ExecuteReader();
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
 
                 lst_contatos.Items.Clear();
 
                 while (reader.Read())
                 {
-                    string[] row = {
-<<<<<<< HEAD
+                    string[] row = [
                         reader.GetInt32(0).ToString(),
-=======
-                        reader.GetString(0),
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
                         reader.GetString(1),
                         reader.GetString(2),
                         reader.GetString(3),
-                    };
+                    ];
 
-<<<<<<< HEAD
                     lst_contatos.Items.Add(new ListViewItem(row));
                 }
 
@@ -182,12 +136,12 @@ namespace WFGravarDadosMySQL
 
                 while (reader.Read())
                 {
-                    string[] row = {
+                    string[] row = [
                         reader.GetInt32(0).ToString(),
                         reader.GetString(1),
                         reader.GetString(2),
                         reader.GetString(3),
-                    };
+                    ];
 
                     lst_contatos.Items.Add(new ListViewItem(row));
                 }
@@ -201,16 +155,7 @@ namespace WFGravarDadosMySQL
             catch (Exception ex)
             {
                 MessageBox.Show("Erro ocorreu: " + ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
-=======
-                    var linhaListView = new ListViewItem(row);
-
-                    lst_contatos.Items.Add(linhaListView);
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
+                
             }
             finally
             {

@@ -9,10 +9,7 @@ C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WFGravarDado
 C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WFGravarDadosMySQL\WFGravarDadosMySQL\obj\Debug\net8.0-windows\WFGravarDadosMySQL.AssemblyInfoInputs.cache
 C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WFGravarDadosMySQL\WFGravarDadosMySQL\obj\Debug\net8.0-windows\WFGravarDadosMySQL.AssemblyInfo.cs
 C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WFGravarDadosMySQL\WFGravarDadosMySQL\obj\Debug\net8.0-windows\WFGravarDadosMySQL.csproj.CoreCompileInputs.cache
-<<<<<<< HEAD
-=======
 C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WFGravarDadosMySQL\WFGravarDadosMySQL\obj\Debug\net8.0-windows\WFGravarDadosMySQL.sourcelink.json
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
 C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WFGravarDadosMySQL\WFGravarDadosMySQL\obj\Debug\net8.0-windows\WFGravarDadosMySQL.dll
 C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WFGravarDadosMySQL\WFGravarDadosMySQL\obj\Debug\net8.0-windows\refint\WFGravarDadosMySQL.dll
 C:\Users\helos\OneDrive\Documentos\Estudos-Csharp\Curso Workover C#\WFGravarDadosMySQL\WFGravarDadosMySQL\obj\Debug\net8.0-windows\WFGravarDadosMySQL.pdb

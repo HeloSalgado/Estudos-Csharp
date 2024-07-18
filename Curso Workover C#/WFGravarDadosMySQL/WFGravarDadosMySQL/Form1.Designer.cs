@@ -85,10 +85,7 @@
             // txt_telefone
             // 
             txt_telefone.Location = new Point(46, 235);
-<<<<<<< HEAD
             txt_telefone.MaxLength = 11;
-=======
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
             txt_telefone.Name = "txt_telefone";
             txt_telefone.Size = new Size(259, 27);
             txt_telefone.TabIndex = 5;
@@ -111,11 +108,7 @@
             lst_contatos.LabelEdit = true;
             lst_contatos.Location = new Point(352, 109);
             lst_contatos.Name = "lst_contatos";
-<<<<<<< HEAD
-            lst_contatos.Size = new Size(575, 480);
-=======
-            lst_contatos.Size = new Size(575, 199);
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
+            lst_contatos.Size = new Size(575, 381);
             lst_contatos.TabIndex = 7;
             lst_contatos.UseCompatibleStateImageBehavior = false;
             lst_contatos.View = View.Details;
@@ -150,11 +143,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-<<<<<<< HEAD
-            ClientSize = new Size(964, 621);
-=======
-            ClientSize = new Size(964, 333);
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
+            ClientSize = new Size(964, 516);
             Controls.Add(btn_buscar);
             Controls.Add(txt_busca);
             Controls.Add(label4);
@@ -168,11 +157,7 @@
             Controls.Add(label1);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-<<<<<<< HEAD
-            Text = "Agenda de Contatos";
-=======
             Text = "Agenda";
->>>>>>> 1f48af0086b92808f4d2064e493c083e72fc74da
             ResumeLayout(false);
             PerformLayout();
         }
