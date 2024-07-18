@@ -107,11 +107,13 @@
             lst_contatos.GridLines = true;
             lst_contatos.LabelEdit = true;
             lst_contatos.Location = new Point(352, 109);
+            lst_contatos.MultiSelect = false;
             lst_contatos.Name = "lst_contatos";
             lst_contatos.Size = new Size(575, 381);
             lst_contatos.TabIndex = 7;
             lst_contatos.UseCompatibleStateImageBehavior = false;
             lst_contatos.View = View.Details;
+            lst_contatos.ItemSelectionChanged += lst_contatos_ItemSelectionChanged;
             // 
             // label4
             // 

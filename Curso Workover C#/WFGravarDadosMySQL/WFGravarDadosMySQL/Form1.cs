@@ -1,5 +1,7 @@
 using MySql.Data.MySqlClient;
 using Mysqlx;
+using Mysqlx.Crud;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 
 namespace WFGravarDadosMySQL
 {
@@ -7,6 +9,7 @@ namespace WFGravarDadosMySQL
     {
         private MySqlConnection? conn;
         private string data_source = "datasource=localhost;username=root;password=25101724;database=db_agenda";
+        private int? idContatoSelecionado = null;
 
         public Form1()
         {
@@ -34,19 +37,25 @@ namespace WFGravarDadosMySQL
 
                 cmd.CommandText = "insert into contato (nome, email, telefone) values (@nome, @email, @telefone)";
 
+                if (idContatoSelecionado != null)
+                {
+                    cmd.CommandText = "update contato set nome = @nome, email = @email, telefone = @telefone where id = @id;";
+                    cmd.Parameters.AddWithValue("@id", idContatoSelecionado);
+                }
+
                 cmd.Parameters.AddWithValue("@nome", txt_nome.Text);
                 cmd.Parameters.AddWithValue("@email", txt_email.Text);
                 cmd.Parameters.AddWithValue("@telefone", txt_telefone.Text);
 
                 cmd.Prepare();
-
                 cmd.ExecuteNonQuery();
 
-                MessageBox.Show("Contato inserido com sucesso", "Sucesso!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Operação efetuada com sucesso", "Sucesso!", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 txt_nome.Clear();
                 txt_email.Clear();
                 txt_telefone.Clear();
+                idContatoSelecionado = null;
 
                 CarregarContatos();
             }
@@ -155,11 +164,24 @@ namespace WFGravarDadosMySQL
             catch (Exception ex)
             {
                 MessageBox.Show("Erro ocorreu: " + ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                
+
             }
             finally
             {
                 conn.Close();
+            }
+        }
+
+        private void lst_contatos_ItemSelectionChanged(object sender, ListViewItemSelectionChangedEventArgs e)
+        {
+            ListView.SelectedListViewItemCollection itensSelecionados = lst_contatos.SelectedItems;
+
+            foreach (ListViewItem item in itensSelecionados)
+            {
+                idContatoSelecionado = Convert.ToInt32(item.SubItems[0].Text);
+                txt_nome.Text = item.SubItems[1].Text;
+                txt_email.Text = item.SubItems[2].Text;
+                txt_telefone.Text = item.SubItems[3].Text;
             }
         }
     }
