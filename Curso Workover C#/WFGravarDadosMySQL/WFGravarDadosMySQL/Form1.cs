@@ -52,10 +52,7 @@ namespace WFGravarDadosMySQL
 
                 MessageBox.Show("Operação efetuada com sucesso", "Sucesso!", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                txt_nome.Clear();
-                txt_email.Clear();
-                txt_telefone.Clear();
-                idContatoSelecionado = null;
+                LimparCampos();
 
                 CarregarContatos();
             }
@@ -182,6 +179,83 @@ namespace WFGravarDadosMySQL
                 txt_nome.Text = item.SubItems[1].Text;
                 txt_email.Text = item.SubItems[2].Text;
                 txt_telefone.Text = item.SubItems[3].Text;
+
+                btn_excluir.Visible = true;
+            }
+
+
+        }
+
+        private void excluirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ExcluirContato();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            LimparCampos();
+        }
+
+        private void LimparCampos()
+        {
+            txt_nome.Clear();
+            txt_email.Clear();
+            txt_telefone.Clear();
+            idContatoSelecionado = null;
+
+            txt_nome.Focus();
+
+            btn_excluir.Visible = false;
+        }
+
+        private void btn_excluir_Click(object sender, EventArgs e)
+        {
+            ExcluirContato();
+        }
+
+        private void ExcluirContato()
+        {
+            try
+            {
+                DialogResult retorno = MessageBox.Show("Deseja realmente excluir o contato?", "Confirmação", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+                if (retorno == DialogResult.Yes)
+                {
+                    conn = new MySqlConnection(data_source);
+
+                    conn.Open();
+
+                    MySqlCommand cmd = new MySqlCommand();
+
+                    cmd.Connection = conn;
+
+                    cmd.CommandText = "delete from Contato where id = @id";
+
+                    cmd.Parameters.AddWithValue("@id", idContatoSelecionado);
+
+                    cmd.Prepare();
+
+                    cmd.ExecuteNonQuery();
+
+                    CarregarContatos();
+
+                    MessageBox.Show("Contato excluído com sucesso", "Sucesso!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                    LimparCampos();
+                }
+
+            }
+            catch (MySqlException ex)
+            {
+                MessageBox.Show("Erro " + ex.Number + " ocorreu: " + ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erro ocorreu: " + ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            finally
+            {
+                conn.Close();
             }
         }
     }

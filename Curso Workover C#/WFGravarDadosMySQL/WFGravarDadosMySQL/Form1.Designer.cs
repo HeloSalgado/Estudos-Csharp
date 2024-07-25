@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
@@ -36,9 +37,14 @@
             txt_telefone = new TextBox();
             btn_salvar = new Button();
             lst_contatos = new ListView();
+            contextMenuStrip1 = new ContextMenuStrip(components);
+            excluirToolStripMenuItem = new ToolStripMenuItem();
             label4 = new Label();
             txt_busca = new TextBox();
             btn_buscar = new Button();
+            button1 = new Button();
+            btn_excluir = new Button();
+            contextMenuStrip1.SuspendLayout();
             SuspendLayout();
             // 
             // label1
@@ -92,9 +98,9 @@
             // 
             // btn_salvar
             // 
-            btn_salvar.Location = new Point(211, 279);
+            btn_salvar.Location = new Point(225, 279);
             btn_salvar.Name = "btn_salvar";
-            btn_salvar.Size = new Size(94, 29);
+            btn_salvar.Size = new Size(80, 29);
             btn_salvar.TabIndex = 6;
             btn_salvar.Text = "Salvar";
             btn_salvar.UseVisualStyleBackColor = true;
@@ -103,6 +109,7 @@
             // lst_contatos
             // 
             lst_contatos.AllowColumnReorder = true;
+            lst_contatos.ContextMenuStrip = contextMenuStrip1;
             lst_contatos.FullRowSelect = true;
             lst_contatos.GridLines = true;
             lst_contatos.LabelEdit = true;
@@ -114,6 +121,20 @@
             lst_contatos.UseCompatibleStateImageBehavior = false;
             lst_contatos.View = View.Details;
             lst_contatos.ItemSelectionChanged += lst_contatos_ItemSelectionChanged;
+            // 
+            // contextMenuStrip1
+            // 
+            contextMenuStrip1.ImageScalingSize = new Size(20, 20);
+            contextMenuStrip1.Items.AddRange(new ToolStripItem[] { excluirToolStripMenuItem });
+            contextMenuStrip1.Name = "contextMenuStrip1";
+            contextMenuStrip1.Size = new Size(179, 28);
+            // 
+            // excluirToolStripMenuItem
+            // 
+            excluirToolStripMenuItem.Name = "excluirToolStripMenuItem";
+            excluirToolStripMenuItem.Size = new Size(178, 24);
+            excluirToolStripMenuItem.Text = "Excluir Contato";
+            excluirToolStripMenuItem.Click += excluirToolStripMenuItem_Click;
             // 
             // label4
             // 
@@ -141,11 +162,34 @@
             btn_buscar.UseVisualStyleBackColor = true;
             btn_buscar.Click += btn_buscar_Click;
             // 
+            // button1
+            // 
+            button1.Location = new Point(46, 279);
+            button1.Name = "button1";
+            button1.Size = new Size(78, 29);
+            button1.TabIndex = 11;
+            button1.Text = "Novo";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // btn_excluir
+            // 
+            btn_excluir.Location = new Point(138, 279);
+            btn_excluir.Name = "btn_excluir";
+            btn_excluir.Size = new Size(72, 29);
+            btn_excluir.TabIndex = 12;
+            btn_excluir.Text = "Excluir";
+            btn_excluir.UseVisualStyleBackColor = true;
+            btn_excluir.Visible = false;
+            btn_excluir.Click += btn_excluir_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(964, 516);
+            Controls.Add(btn_excluir);
+            Controls.Add(button1);
             Controls.Add(btn_buscar);
             Controls.Add(txt_busca);
             Controls.Add(label4);
@@ -160,6 +204,7 @@
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Agenda";
+            contextMenuStrip1.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
         }
@@ -177,5 +222,9 @@
         private Label label4;
         private TextBox txt_busca;
         private Button btn_buscar;
+        private ContextMenuStrip contextMenuStrip1;
+        private ToolStripMenuItem excluirToolStripMenuItem;
+        private Button button1;
+        private Button btn_excluir;
     }
 }

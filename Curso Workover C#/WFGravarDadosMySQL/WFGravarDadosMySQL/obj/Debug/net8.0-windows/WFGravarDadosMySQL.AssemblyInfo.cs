@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WFGravarDadosMySQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4ed624a6099398bd0417a711ef64f83721d872a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e38c60cbfd112fd06a1c2c414a94c836d5e09a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WFGravarDadosMySQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WFGravarDadosMySQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
